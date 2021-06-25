@@ -1,3 +1,4 @@
 # House_Price_Prediction
 
-Using Dragon realestate datasets prediction and "MEDV' is target feature 
+Here, i am creating model on Dragon Realestate datasets to predict price and "MEDV' is target feature and Using 'ExtraTreeRegressor' to find best features
+
